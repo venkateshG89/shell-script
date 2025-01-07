@@ -2,8 +2,8 @@
 
 echo " Please enter employee name "
 
-read -s EMPLOYEE NAME
+read -s EMPLOYEE 
 
-echo " Entered employee name is : $EMPLOYEE NAME "
+echo " Entered employee name is : $E "
 
 
