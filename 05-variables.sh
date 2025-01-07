@@ -1,9 +1,9 @@
 #!/bin/bash
 
-echo " Please enter employee name "
+echo " Please enter USERNAME"
 
-read -s EMPLOYEE 
+read -s USERNAME 
 
-echo " Entered employee name is : $EMPLOYEE "
+echo " Entered employee name is : $USERNAME "
 
 
